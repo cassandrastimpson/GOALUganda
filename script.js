@@ -2,16 +2,6 @@ $(function () {
     // This otherData section is the part where you need to enter the district and group info.
 
     otherData = [
-        // {
-        //     "name": "Lamwo", // District Name: Check on rendered map to make sure the spelling matches
-        //     "value": 5,      // value: # of groups in this district
-        //     "groupNames": ['Drew', 'Cassandra', 'Beef', 'Pork', 'Veggies'] // Names of groups operating
-        // },   // these sections are comma-separated
-        // {
-        //     "name": "Gulu",
-        //     "value": 3,
-        //     "groupNames": ['Call', 'Me', 'Ishmael']
-        // },
         {
             "name": "Lira",
             "value": 4,
