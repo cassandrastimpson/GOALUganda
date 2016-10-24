@@ -3,6 +3,42 @@ $(function () {
 
     otherData = [
         {
+            "name": "Agago",
+            "value": 9,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["MUCOBADI"]
+                },
+                {
+                    "programName": "WASH",
+                    "programPartners": ["Wagwoke Wunu"]
+                },
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                },
+                {
+                    "programName": "Livelihoods - Private Sector Partners",
+                    "programPartners": ['FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
+                }
+            ]
+        }, 
+        {
+            "name": "Lamwo",
+            "value": 4,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["MUCOBADI"]
+                },
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                }
+            ]
+        }, 
+        {
             "name": "Pader",
             "value": 4,
             "programs": [
