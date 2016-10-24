@@ -27,7 +27,7 @@ $(function () {
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
-                }
+                },
             {    
                 "name": "Apac",
             "value": 4,
@@ -39,8 +39,8 @@ $(function () {
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
-                }
-        {
+                },
+             {
                 "name": "Nakaseke",
             "value": 1,
             "programs": [
