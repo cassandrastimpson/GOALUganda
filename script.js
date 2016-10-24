@@ -3,6 +3,15 @@ $(function () {
 
     otherData = [
         {
+            "name": "Omoro",
+            "value": 3,
+            "programs": [
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                }
+            ]
+        },
             "name": "Namayingo",
             "value": 2,
             "programs": [
