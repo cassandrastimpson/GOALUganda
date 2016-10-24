@@ -13,11 +13,11 @@ $(function () {
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
-                },
-             ]
+                }
+            ]
         },
-         {
-             "name": "Gulu",
+        {
+            "name": "Gulu",
             "value": 4,
             "programs": [
                 {
@@ -27,17 +27,17 @@ $(function () {
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
-                },
-                ]
+                }
+            ]
          },
-          {    
-                "name": "Apac",
+         {    
+            "name": "Apac",
             "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
                     "programPartners": ["HEPS"]
-                },
+                }
                 ]
           },
            {
@@ -47,7 +47,7 @@ $(function () {
                 {
                     "programName": "ACT Health",
                     "programPartners": ["HEPS"]
-                },
+                }
             ]
             // "groupNames": ['ACT HEALTH:', 'HEPS']
         }
