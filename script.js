@@ -55,81 +55,81 @@ $(function () {
         },
         {
             "name": "Katakwi",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
                 }
             ]
         },
         {
             "name": "Bukedea",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
                 }
             ]
         },
         {
             "name": "Manafwa",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
                 }
             ]
         },
         {
             "name": "Tororo",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
                 }
             ]
         },
         {    
             "name": "Mubende",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Kabarole Research & Resource Centre"]
+                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
                 }
             ]
         },
         {
             "name": "Kibale",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Kabarole Research & Resource Centre"]
+                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
                 }
             ]
         },
         {
             "name": "Bundibugyo",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Kabarole Research & Resource Centre"]
+                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
                 }
             ]
         },
         {
             "name": "Kabarole",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Kabarole Research & Resource Centre"]
+                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
                 }
             ]
         },
@@ -153,11 +153,11 @@ $(function () {
         }, 
         {
             "name": "Agago",
-            "value": 9,
+            "value": 10,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["MUCOBADI"]
+                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
                 },
                 {
                     "programName": "WASH",
@@ -175,11 +175,11 @@ $(function () {
         }, 
         {
             "name": "Lamwo",
-            "value": 4,
+            "value": 5,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["MUCOBADI"]
+                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -189,11 +189,11 @@ $(function () {
         }, 
         {
             "name": "Pader",
-            "value": 4,
+            "value": 5,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["MUCOBADI"]
+                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -203,11 +203,11 @@ $(function () {
         }, 
         {  
             "name": "Kitgum",
-            "value": 4,
+            "value": 5,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["MUCOBADI"]
+                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -217,11 +217,11 @@ $(function () {
         },
         {
             "name": "Lira",
-            "value": 4,
+            "value": 5,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["HEPS"]
+                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -231,11 +231,11 @@ $(function () {
         },
         {
             "name": "Gulu",
-            "value": 4,
+            "value": 5,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["HEPS"]
+                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -245,21 +245,21 @@ $(function () {
          },
          {    
             "name": "Apac",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["HEPS"]
+                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
                 }
                 ]
           },
            {
                 "name": "Nakaseke",
-            "value": 1,
+            "value": 2,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["HEPS"]
+                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
                 }
             ]
             // "groupNames": ['ACT HEALTH:', 'HEPS']
