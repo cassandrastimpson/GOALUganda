@@ -3,6 +3,16 @@ $(function () {
 
     otherData = [
         {
+            "name": "Kabarole",
+            "value": 9,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Kabarole Research & Resource Centre"]
+                }
+            ]
+        },
+        {    
             "name": "Abim",
             "value": 9,
             "programs": [
