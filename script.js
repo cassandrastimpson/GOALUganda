@@ -12,6 +12,7 @@ $(function () {
                 }
             ]
         },
+        {
             "name": "Namayingo",
             "value": 2,
             "programs": [
