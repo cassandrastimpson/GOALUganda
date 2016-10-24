@@ -66,10 +66,8 @@ $(function () {
         },
 
         series : [{
-            // data : data,
             data : otherData,
             mapData: Highcharts.maps['countries/ug/ug-all'],
-            // joinBy: 'hc-key',
             joinBy: 'name',
             name: 'Groups:',
             states: {
@@ -81,6 +79,14 @@ $(function () {
                 enabled: true,
                 format: '{point.name}'
             }
-        }]
+        }],
+        chart: {
+            renderTo: 'container',
+            events: {
+                load: function() {
+                    this.renderer.image('GOAL_Logo.png', 0, 80, 312, 120).add();
+                }
+            }
+        },
     });
 });
