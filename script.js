@@ -3,6 +3,24 @@ $(function () {
 
     otherData = [
         {
+            "name": "Abim",
+            "value": 9,
+            "programs": [
+                {
+                    "programName": "WASH",
+                    "programPartners": ["MUCOBADI"]
+                },
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                },
+                {
+                    "programName": "Livelihoods - Private Sector Partners",
+                    "programPartners": ['Acila Enterprises Ltd','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
+                }
+            ]
+        }, 
+        {
             "name": "Agago",
             "value": 9,
             "programs": [
