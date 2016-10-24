@@ -3,7 +3,7 @@ $(function () {
 
     otherData = [
         {
-            "name": "Kaboong",
+            "name": "Kaabong",
             "value": 4,
             "programs": [
                 {
