@@ -3,6 +3,34 @@ $(function () {
 
     otherData = [
         {
+            "name": "Namayingo",
+            "value": 2,
+            "programs": [
+                {
+                    "programName": "WASH",
+                    "programPartners": ['UMURDA']
+                },
+                {
+                    "programName": "WASH - Private Sector Partners",
+                    "programPartners": ['Gema Investments Ltd']
+                }
+            ]
+        },
+        {
+            "name": "Bugiri",
+            "value": 3,
+            "programs": [
+                {
+                    "programName": "WASH",
+                    "programPartners": ['COPISED','UMURDA']
+                },
+                {
+                    "programName": "WASH - Private Sector Partners",
+                    "programPartners": ['Gema Investments Ltd']
+                }
+            ]
+        },
+        {
             "name": "Kaabong",
             "value": 4,
             "programs": [
