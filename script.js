@@ -3,7 +3,21 @@ $(function () {
 
     otherData = [
         {
-             "name": "Kitgum",
+            "name": "Pader",
+            "value": 4,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["MUCOBADI"]
+                },
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                }
+            ]
+        }, 
+        {  
+            "name": "Kitgum",
             "value": 4,
             "programs": [
                 {
