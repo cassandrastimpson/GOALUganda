@@ -14,26 +14,32 @@ $(function () {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 },
+             ]
+        },
          {
              "name": "Gulu",
             "value": 4,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["HEPS]]"]
+                    "programPartners": ["HEPS"]
                 },
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 },
+                ]
+         },
           {    
                 "name": "Apac",
             "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["HEPS]]"]
+                    "programPartners": ["HEPS"]
                 },
+                ]
+          },
            {
                 "name": "Nakaseke",
             "value": 1,
