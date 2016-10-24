@@ -17,7 +17,31 @@ $(function () {
             ]
         },
         {
-            "name": "Nakaseke",
+             "name": "Gulu",
+            "value": 4,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["HEPS]]"]
+                },
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                }
+            {    
+                "name": "Apac",
+            "value": 4,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["HEPS]]"]
+                },
+                {
+                    "programName": "DYNAMIC",
+                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+                }
+        {
+                "name": "Nakaseke",
             "value": 1,
             "programs": [
                 {
