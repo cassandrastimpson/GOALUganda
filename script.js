@@ -3,8 +3,28 @@ $(function () {
 
     otherData = [
         {
+            "name": "Kibaale",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Kabarole Research & Resource Centre"]
+                }
+            ]
+        },
+        {
+            "name": "Bundibugyo",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Kabarole Research & Resource Centre"]
+                }
+            ]
+        },
+        {
             "name": "Kabarole",
-            "value": 9,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
