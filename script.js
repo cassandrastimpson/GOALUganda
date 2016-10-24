@@ -3,7 +3,57 @@ $(function () {
 
     otherData = [
         {
-            "name": "Kibaale",
+            "name": "Kawakwi",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Innovations for Poverty Action"]
+                }
+            ]
+        },
+        {
+            "name": "Bukedea",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Innovations for Poverty Action"]
+                }
+            ]
+        },
+        {
+            "name": "Manafwa",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Innovations for Poverty Action"]
+                }
+            ]
+        },
+        {
+            "name": "Tororo",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Innovations for Poverty Action"]
+                }
+            ]
+        },
+        {    
+            "name": "Mubende",
+            "value": 1,
+            "programs": [
+                {
+                    "programName": "ACT Health",
+                    "programPartners": ["Kabarole Research & Resource Centre"]
+                }
+            ]
+        },
+        {
+            "name": "Kibale",
             "value": 1,
             "programs": [
                 {
