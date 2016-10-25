@@ -45,10 +45,6 @@ $(function () {
             "value": 4,
             "programs": [
                 {
-                    "programName": "GOAL Uganda field office",
-                    "programPartners": [ ]
-                },
-                {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 },
@@ -142,9 +138,6 @@ $(function () {
             "name": "Abim",
             "value": 9,
             "programs": [
-                {
-                    "programName": "GOAL Uganda field office"
-                },
                 {
                     "programName": "WASH",
                     "programPartners": ["MUCOBADI"]
