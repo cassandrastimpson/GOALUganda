@@ -136,7 +136,7 @@ $(function () {
         },
         {    
             "name": "Abim",
-            "value": 9,
+            "value": 11,
             "programs": [
                 {
                     "programName": "WASH",
@@ -148,13 +148,13 @@ $(function () {
                 },
                 {
                     "programName": "Livelihoods - Private Sector Partners",
-                    "programPartners": ['Acila Enterprises Ltd','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
+                    "programPartners": ['Agrinet', 'Equator Seeds', 'Acila Enterprises Ltd','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
                 }
             ]
         }, 
         {
             "name": "Agago",
-            "value": 10,
+            "value": 13,
             "programs": [
                 {
                     "programName": "ACT Health",
@@ -170,7 +170,7 @@ $(function () {
                 },
                 {
                     "programName": "Livelihoods - Private Sector Partners",
-                    "programPartners": ['FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
+                    "programPartners": ['Agrinet', 'Equator Seeds', 'Acila Enterprises Ltd', 'FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
                 }
             ]
         }, 
