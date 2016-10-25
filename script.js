@@ -45,7 +45,7 @@ $(function () {
             "value": 4,
             "programs": [
                 {
-                     "programName": "GOAL Uganda field office",
+                     "programName": "GOAL Uganda field office"
                 },
                 {
                     "programName": "DYNAMIC",
@@ -142,7 +142,7 @@ $(function () {
             "value": 9,
             "programs": [
                 {
-                    "programName": "GOAL Uganda field office",
+                    "programName": "GOAL Uganda field office"
                 },
                 {
                     "programName": "WASH",
