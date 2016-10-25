@@ -2,16 +2,16 @@ $(function () {
     // This otherData section is the part where you need to enter the district and group info.
 
     otherData = [
-        {
-            "name": "Omoro",
-            "value": 3,
-            "programs": [
-                {
-                    "programName": "DYNAMIC",
-                    "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
-                }
-            ]
-        },
+//         {
+//             "name": "Omoro",
+//             "value": 3,
+//             "programs": [
+//                 {
+//                     "programName": "DYNAMIC",
+//                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
+//                 }
+//             ]
+//         },
         {
             "name": "Namayingo",
             "value": 2,
