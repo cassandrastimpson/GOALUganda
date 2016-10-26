@@ -14,7 +14,7 @@ $(function () {
 //         },
         {
             "name": "Namayingo",
-            "value": 3,
+            "value": 4,
             "programs": [
                 {
                     "programName": "WASH",
@@ -28,7 +28,7 @@ $(function () {
         },
         {
             "name": "Bugiri",
-            "value": 4,
+            "value": 5,
             "programs": [
                 {
                     "programName": "WASH",
