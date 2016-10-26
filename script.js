@@ -45,6 +45,10 @@ $(function () {
             "value": 4,
             "programs": [
                 {
+                    "programName": "GOAL Field Office",
+                    "programPartners": []
+                },
+                {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 },
@@ -139,6 +143,10 @@ $(function () {
             "value": 11,
             "programs": [
                 {
+                    "programName": "GOAL Field Office",
+                    "programPartners": []
+                },
+                {
                     "programName": "WASH",
                     "programPartners": ["MUCOBADI"]
                 },
@@ -157,7 +165,7 @@ $(function () {
             "value": 13,
             "programs": [
                 {
-                    "programName": "GOAL Satellite Office",
+                    "programName": "GOAL Field Office",
                     "programPartners": []
                 },
                 {
@@ -224,6 +232,10 @@ $(function () {
             "name": "Lira",
             "value": 5,
             "programs": [
+                {
+                    "programName": "GOAL Field Office",
+                    "programPartners": []
+                },
                 {
                     "programName": "ACT Health",
                     "programPartners": ["Innovations for Poverty Action", "HEPS"]
