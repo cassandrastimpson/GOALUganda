@@ -13,16 +13,6 @@ $(function () {
 //             ]
 //         },
         {
-            "name": "Iganga",
-            "value": 1,
-            "programs": [
-                {
-                    "programName": "WASH - Private Sector Partners",
-                    "programPartners": ['Post Bank']
-                }
-            ]
-        },
-        {
             "name": "Namayingo",
             "value": 3,
             "programs": [
@@ -32,7 +22,7 @@ $(function () {
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
-                    "programPartners": ['Gema Investments Ltd', 'Expert Concrete']
+                    "programPartners": ['Gema Investments Ltd', 'Expert Concrete', 'Post Bank']
                 }
             ]
         },
@@ -46,7 +36,7 @@ $(function () {
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
-                    "programPartners": ['Gema Investments Ltd', 'Expert Concrete']
+                    "programPartners": ['Gema Investments Ltd', 'Expert Concrete', 'Post Bank']
                 }
             ]
         },
