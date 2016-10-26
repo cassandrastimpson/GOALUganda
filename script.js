@@ -94,7 +94,7 @@ $(function () {
                 }
             ]
         },
-        {    
+        {
             "name": "Mubende",
             "value": 2,
             "programs": [
@@ -134,7 +134,7 @@ $(function () {
                 }
             ]
         },
-        {    
+        {
             "name": "Abim",
             "value": 11,
             "programs": [
@@ -151,11 +151,15 @@ $(function () {
                     "programPartners": ['Agrinet', 'Equator Seeds', 'Acila Enterprises Ltd','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
                 }
             ]
-        }, 
+        },
         {
             "name": "Agago",
             "value": 13,
             "programs": [
+                {
+                    "programName": "GOAL Satellite Office",
+                    "programPartners": []
+                },
                 {
                     "programName": "ACT Health",
                     "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
@@ -173,7 +177,7 @@ $(function () {
                     "programPartners": ['Agrinet', 'Equator Seeds', 'Acila Enterprises Ltd', 'FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
                 }
             ]
-        }, 
+        },
         {
             "name": "Lamwo",
             "value": 5,
@@ -187,7 +191,7 @@ $(function () {
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 }
             ]
-        }, 
+        },
         {
             "name": "Pader",
             "value": 5,
@@ -201,8 +205,8 @@ $(function () {
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 }
             ]
-        }, 
-        {  
+        },
+        {
             "name": "Kitgum",
             "value": 5,
             "programs": [
@@ -244,7 +248,7 @@ $(function () {
                 }
             ]
          },
-         {    
+         {
             "name": "Apac",
             "value": 2,
             "programs": [
@@ -298,8 +302,14 @@ $(function () {
         tooltip: {
             formatter: function() {
                 return $.map(this.point.programs, function(program) {
-                    return "<b>" + program.programName + "</b><br />- " + program.programPartners.join("<br />- ") + "<br />";
-                })
+                    var text = "<b>" + program.programName + "</b>";
+
+                    if (program.programPartners.length > 0) {
+                        text = text + "<br />- " + program.programPartners.join("<br />- ");
+                    }
+
+                    return text;
+                }).join("<br />")
             }
         },
 
