@@ -14,7 +14,7 @@ $(function () {
 //         },
         {
             "name": "Iganga",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "WASH - Private Sector Partners",
