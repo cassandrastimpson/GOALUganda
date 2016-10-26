@@ -13,6 +13,16 @@ $(function () {
 //             ]
 //         },
         {
+            "name": "Iganga",
+            "value": 2,
+            "programs": [
+                {
+                    "programName": "WASH - Private Sector Partners",
+                    "programPartners": ['Post Bank']
+                }
+            ]
+        },
+        {
             "name": "Namayingo",
             "value": 2,
             "programs": [
@@ -28,7 +38,7 @@ $(function () {
         },
         {
             "name": "Bugiri",
-            "value": 3,
+            "value": 4,
             "programs": [
                 {
                     "programName": "WASH",
@@ -36,7 +46,7 @@ $(function () {
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
-                    "programPartners": ['Gema Investments Ltd']
+                    "programPartners": ['Gema Investments Ltd', 'Expert Concrete']
                 }
             ]
         },
