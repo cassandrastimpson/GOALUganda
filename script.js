@@ -24,7 +24,7 @@ $(function () {
         },
         {
             "name": "Namayingo",
-            "value": 2,
+            "value": 3,
             "programs": [
                 {
                     "programName": "WASH",
@@ -32,7 +32,7 @@ $(function () {
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
-                    "programPartners": ['Gema Investments Ltd']
+                    "programPartners": ['Gema Investments Ltd', 'Expert Concrete']
                 }
             ]
         },
