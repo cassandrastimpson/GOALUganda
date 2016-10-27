@@ -292,11 +292,7 @@ $(function () {
     $('#container').highcharts('Map', {
 
         title : {
-            text : 'Where We Work'
-        },
-
-        subtitle : {
-            text: 'GOAL Uganda and Partner Organizations'
+            text : 'GOAL Uganda and Partner Organizations'
         },
 
         mapNavigation: {
