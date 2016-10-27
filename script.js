@@ -345,6 +345,7 @@ $(function () {
             events: {
                 load: function() {
                     this.renderer.image('GOAL_Logo.png', 0, 80, 312, 120).add();
+                    this.renderer.image('Where We Work.jpg', 0, 200, 312, 120).add();
                 }
             }
         },
