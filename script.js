@@ -172,7 +172,6 @@ $(function () {
                     "programName": "ACT Health",
                     "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
                 },
-                ]
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
