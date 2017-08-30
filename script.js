@@ -156,7 +156,7 @@ $(function () {
                 },
                 {
                     "programName": "Livelihoods - Private Sector Partners",
-                    "programPartners": ['Agrinet', 'Equator Seeds', 'Acila Enterprises Ltd','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
+                    "programPartners": ['Agrinet', 'Alito', 'Equator Seeds', 'Acila Enterprises','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products', 'Jolah']
                 }
             ]
         },
@@ -172,17 +172,14 @@ $(function () {
                     "programName": "ACT Health",
                     "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
                 },
-                {
-                    "programName": "WASH",
-                    "programPartners": ["Wagwoke Wunu"]
-                },
+                ]
                 {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 },
                 {
                     "programName": "Livelihoods - Private Sector Partners",
-                    "programPartners": ['Agrinet', 'Equator Seeds', 'Acila Enterprises Ltd', 'FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products Ltd', 'Jolah Company Ltd']
+                    "programPartners": ['Agrinet', 'Alito', 'Equator Seeds', 'Acila Enterprises', 'FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products', 'Jolah']
                 }
             ]
         },
