@@ -28,11 +28,11 @@ $(function () {
         },
         {
             "name": "Bugiri",
-            "value": 5,
+            "value": 4,
             "programs": [
                 {
                     "programName": "WASH",
-                    "programPartners": ['COPISED','UMURDA']
+                    "programPartners": ['UMURDA']
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
@@ -60,81 +60,81 @@ $(function () {
         },
         {
             "name": "Katakwi",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda']
                 }
             ]
         },
         {
             "name": "Bukedea",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda']
                 }
             ]
         },
         {
             "name": "Manafwa",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda']
                 }
             ]
         },
         {
             "name": "Tororo",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ['GOAL Uganda', "Innovations for Poverty Action"]
+                    "programPartners": ['GOAL Uganda']
                 }
             ]
         },
         {
             "name": "Mubende",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
+                    "programPartners": ["Kabarole Research & Resource Centre"]
                 }
             ]
         },
         {
             "name": "Kibale",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
+                    "programPartners": ["Kabarole Research & Resource Centre"]
                 }
             ]
         },
         {
             "name": "Bundibugyo",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
+                    "programPartners": ["Kabarole Research & Resource Centre"]
                 }
             ]
         },
         {
             "name": "Kabarole",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "Kabarole Research & Resource Centre"]
+                    "programPartners": ["Kabarole Research & Resource Centre"]
                 }
             ]
         },
@@ -147,16 +147,12 @@ $(function () {
                     "programPartners": []
                 },
                 {
-                    "programName": "WASH",
-                    "programPartners": ["MUCOBADI"]
-                },
-                {
                     "programName": "DYNAMIC",
                     "programPartners": ['Restless Development', 'Mercy Corps', 'VSO']
                 },
                 {
                     "programName": "Livelihoods - Private Sector Partners",
-                    "programPartners": ['Agrinet', 'Alito', 'Equator Seeds', 'Acila Enterprises','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products', 'Jolah']
+                    "programPartners": ['Agrinet', 'Alito', 'Aryodi', 'The HIVE', 'Mukusu Motors', 'Equator Seeds', 'Acila Enterprises','FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products', 'Jolah']
                 }
             ]
         },
@@ -170,7 +166,7 @@ $(function () {
                 },
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
+                    "programPartners": ["MUCOBADI"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -178,17 +174,17 @@ $(function () {
                 },
                 {
                     "programName": "Livelihoods - Private Sector Partners",
-                    "programPartners": ['Agrinet', 'Alito', 'Equator Seeds', 'Acila Enterprises', 'FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products', 'Jolah']
+                    "programPartners": ['Agrinet', 'Alito', 'Aryodi', 'The HIVE', 'Mukusu Motors', 'Equator Seeds', 'Acila Enterprises', 'FIT Uganda', 'Farmers Center Ltd', 'Sunshine Agro-Products', 'Jolah']
                 }
             ]
         },
         {
             "name": "Lamwo",
-            "value": 5,
+            "value": 4,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
+                    "programPartners": ["MUCOBADI"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -212,11 +208,11 @@ $(function () {
         },
         {
             "name": "Kitgum",
-            "value": 5,
+            "value": 4,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "MUCOBADI"]
+                    "programPartners": ["MUCOBADI"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -226,7 +222,7 @@ $(function () {
         },
         {
             "name": "Lira",
-            "value": 5,
+            "value": 4,
             "programs": [
                 {
                     "programName": "GOAL Field Office",
@@ -234,7 +230,7 @@ $(function () {
                 },
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
+                    "programPartners": ["HEPS"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -244,11 +240,11 @@ $(function () {
         },
         {
             "name": "Gulu",
-            "value": 5,
+            "value": 4,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
+                    "programPartners": ["HEPS"]
                 },
                 {
                     "programName": "DYNAMIC",
@@ -268,11 +264,11 @@ $(function () {
           },
            {
                 "name": "Nakaseke",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
+                    "programPartners": ["HEPS"]
                 }
             ]
             // "groupNames": ['ACT HEALTH:', 'HEPS']
