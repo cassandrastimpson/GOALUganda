@@ -254,11 +254,11 @@ $(function () {
          },
          {
             "name": "Apac",
-            "value": 2,
+            "value": 1,
             "programs": [
                 {
                     "programName": "ACT Health",
-                    "programPartners": ["Innovations for Poverty Action", "HEPS"]
+                    "programPartners": ["HEPS"]
                 }
                 ]
           },
