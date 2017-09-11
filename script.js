@@ -18,7 +18,7 @@ $(function () {
             "programs": [
                 {
                     "programName": "WASH",
-                    "programPartners": ['']
+                    "programPartners": []
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
