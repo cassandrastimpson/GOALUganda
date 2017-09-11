@@ -18,7 +18,7 @@ $(function () {
             "programs": [
                 {
                     "programName": "WASH",
-                    "programPartners": ['UMURDA']
+                    "programPartners": ['']
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
@@ -32,7 +32,7 @@ $(function () {
             "programs": [
                 {
                     "programName": "WASH",
-                    "programPartners": ['UMURDA']
+                    "programPartners": ['GOAL Field Office']
                 },
                 {
                     "programName": "WASH - Private Sector Partners",
